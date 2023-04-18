@@ -11,3 +11,16 @@ body{
     display: flex;
     justify-content: space-around;
 }
+
+.cabeçalho imagem {
+
+width: 80%;
+padding:12px
+}
+
+.lista-cabeçalho {
+
+    display:inline-block;
+    padding: 30px;
+    color:aqua
+}
