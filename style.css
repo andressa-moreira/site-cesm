@@ -29,6 +29,7 @@ padding:12px
 
 .lista-cabeçalho-item {
 display: inline-block;
+align-items: center;
 }
 
 
