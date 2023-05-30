@@ -50,15 +50,19 @@ list-style-type: none;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
-    margin: 20px;
+    margin: 20px;}
+
+
+.quem-somos{
+
 }
+
 
 .equipe{
 text-align: center;
 font-family:'Times New Roman', Times, serif ;
 font-size:35px;
-color:antiquewhite
-}
+color:antiquewhit}
 
 
 .equipe-escola{
@@ -69,7 +73,7 @@ padding:50px ;
 justify-content: ;
 }
 
-.equipe-colunas{
+.equipe-coluna{
   display:contents ; 
   list-style-type:none ; 
   text-align: center;
