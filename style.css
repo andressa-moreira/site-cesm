@@ -19,13 +19,14 @@ width: 80%;
 padding:12px
 }
 
-.lista-cabeçalho-item{
-    display:inline-block;
-    padding: 30px;
-    color:rgb(8, 8, 8);
-    font-size; 15px;
-    font-weight:bolder;
-    text-align:inline block;
+
+
+.lista-cabeçalho-item {
+display:inline-block;
+padding: 30px;
+color:rgb(8, 8, 8);
+font-size; 15px;
+font-weight:bolder;
 }
 
 
