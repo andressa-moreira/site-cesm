@@ -14,18 +14,18 @@ body{
     justify-content: space-around;
 }
 
-.cabeçalho imagem {
+.cabeçalho-imagem {
   width: 80%;
   padding:12px
 }
 
-.lista-cabeçalho-item
-{
-display: inline block;
-padding: 30px;
-color: rgb(8, 8, 8);
-font-size; 15px;
-font-weight: bolder;
+.lista-cabeçalho-item{
+ 
+    display: inline block;
+    padding: 30px;
+    color: rgb(8, 8, 8);
+    font-size; 15px;
+    font-weight: bolder;
 }
 
 .escola{
@@ -62,6 +62,7 @@ font-family:'Times New Roman', Times, serif ;
 font-size:35px;
 color:antiquewhit}
 
+
 .equipe-escola{
 background-color: rgb(78, 190, 194);
 margin:10px ;
@@ -74,8 +75,4 @@ justify-content:space-evenly;
   display:contents ; 
   list-style-type:none ; 
   text-align: center;
-}
-
-.icones{
-    text-align: center;
 }
