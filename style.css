@@ -3,27 +3,30 @@
     padding:0;
 }
 
+
 body{
     background-color: rgb(78, 190, 194);
 }
+
+
 .cabeçalho {
     background-color:#7BC0CF;
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
 }
+ 
 
 .cabeçalho imagem {
-
-width: 80%;
-padding:12px
+  width: 80%;
+  padding:12px
 }
 
 
 
 .lista-cabeçalho-item
 {
-display: inline-block;
+display: inline block;
 padding: 30px;
 color: rgb(8, 8, 8);
 font-size; 15px;
@@ -44,10 +47,14 @@ padding: 24px 0;
 display: inline-block;
 list-style-type: none;
 }
+
+
+
 .escola-imagem{
     width: 150%;
     margin: 46px;
 }
+
 .escola-texto{
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
