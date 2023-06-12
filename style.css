@@ -21,12 +21,12 @@ padding:12px
 
 
 
-.lista-cabeçalho-item {
-display:inline-block;
+.listacabeçalhoitem {
+display: inline-block;
 padding: 30px;
-color:rgb(8, 8, 8);
+color: rgb(8, 8, 8);
 font-size; 15px;
-font-weight:bolder;
+font-weight: bolder;
 }
 
 
