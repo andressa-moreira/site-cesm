@@ -3,11 +3,9 @@
     padding:0;
 }
 
-
 body{
     background-color: rgb(78, 190, 194);
 }
-
 
 .cabeçalho {
     background-color:#7BC0CF;
@@ -15,14 +13,11 @@ body{
     align-items: flex-end;
     justify-content: space-around;
 }
- 
 
 .cabeçalho imagem {
   width: 80%;
   padding:12px
 }
-
-
 
 .lista-cabeçalho-item
 {
@@ -32,8 +27,6 @@ color: rgb(8, 8, 8);
 font-size; 15px;
 font-weight: bolder;
 }
-
-
 
 .escola{
 background-image:linear-gradient(7BC0CF);
@@ -48,8 +41,6 @@ display: inline-block;
 list-style-type: none;
 }
 
-
-
 .escola-imagem{
     width: 150%;
     margin: 46px;
@@ -61,18 +52,15 @@ list-style-type: none;
     font-size: 25px;
     margin: 20px;}
 
-
 .quem-somos{
 
 }
-
 
 .equipe{
 text-align: center;
 font-family:'Times New Roman', Times, serif ;
 font-size:35px;
 color:antiquewhit}
-
 
 .equipe-escola{
 background-color: rgb(78, 190, 194);
