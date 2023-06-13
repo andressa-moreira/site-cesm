@@ -77,3 +77,22 @@ justify-content:space-evenly;
   list-style-type:none ; 
   text-align: center;
 }
+.foorter{
+    text-align:center ;
+    background-color:#7BC0CF ;
+    padding: 10px 0;
+}
+.siga-nos{
+    color:aliceblue;
+    font-size: 20px;
+    padding: 10px 0 0;
+}
+.imagem-rodape{
+    width:10% ;
+    padding: 5px 0 0;
+}
+.contato{
+    color: rgb(70, 146, 146);
+    font-size: 25px;
+    padding: 5px 0 0;
+}
