@@ -83,7 +83,7 @@ justify-content:space-evenly;
     padding: 10px 0;
 }
 .siga-nos{
-    color:aliceblue;
+    color:rgb(0, 0, 0);
     font-size: 20px;
     padding: 10px 0 0;
 }
@@ -92,7 +92,7 @@ justify-content:space-evenly;
     padding: 5px 0 0;
 }
 .contato{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 25px;
     padding: 5px 0 0;
     text-align: center;
