@@ -82,7 +82,7 @@ justify-content:space-evenly;
     background-color:#2b75e2 ;
     padding: 10px 0;
 }
-.siga-nos{
+.textorodape{
     color:rgb(0, 0, 0);
     font-size: 20px;
     padding: 10px 0 0;
@@ -92,11 +92,12 @@ justify-content:space-evenly;
     padding: 5px 0 0;
 }
 .contato{
-    color: rgb(0, 0, 0);
+    color:rgb(0, 0, 0);
     font-size: 25px;
     padding: 5px 0 0;
     text-align: center;
 }
+
 .instarodape{
     width: 30%;
     padding: 5px 0 0;
