@@ -79,12 +79,11 @@ justify-content:space-evenly;
 }
 .foorter{
     text-align:center ;
-    background-color:#2b75e2 ;
+    background-color: 7AB1BD;
     padding: 10px 0;
 }
 .textorodape{
     color:rgb(0, 0, 0);
-    background-color:7AB1BD;
     font-size: 20px;
     padding: 10px 0 0;
     text-align: center;
