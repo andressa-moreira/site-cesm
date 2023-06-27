@@ -53,7 +53,9 @@ list-style-type: none;
     margin: 20px;}
 
 .tituloprincipal{
-    text-align: center;
+    text-align: center ;
+     display: flex;
+     font-size: 14px ;
 }
 
 .quem-somos{
