@@ -20,12 +20,12 @@ body{
 }
 
 .cabeçalho-item{
- 
     display: inline block;
     padding: 30px;
     color: rgb(8, 8, 8);
     font-size; 15px;
     font-weight: bolder;
+    text-align:inline;
 }
 
 .escola{
